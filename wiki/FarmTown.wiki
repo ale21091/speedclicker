@@ -1,10 +1,10 @@
-#summary One-sentence summary of this page.
+#summary The reason Speed Clicker was created
 
 = Introduction =
 
-The greatest facebook gaming assister
+A simple game on facebook
 
 
 = Details =
 
-This is the wiki for Speed Clicker. Feel free to send me an email if you have any questions.
+Using the Speed Clicker gives you a huge advantage on FarmTown
