@@ -1,0 +1,1 @@
+Created initially for use with the Facebook game FarmTown it also has many other uses. Check on the website at http://speedclicker.comeze.com/ for the latest updates and to follow us on Facebook.
